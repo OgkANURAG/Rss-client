@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:subsplease="https://subsplease.org/rss" version="2.0">
+  <channel>
+    <title>Your Custom RSS Feed</title>
+    <description>This is an RSS feed for your custom content.</description>
+    <link>https://yourwebsite.com</link>
+    <atom:link href="https://yourwebsite.com/rss" rel="self" type="application/rss+xml"/>
+
+    <!-- First Item -->
+    <item>
+      <title>[YourTitle] Your Content Title</title>
+      <link>magnet:?xt=urn:btih:EXAMPLEHASH&dn=YourFile.mkv</link>
+      <guid isPermaLink="false">EXAMPLEHASH</guid>
+      <pubDate>Mon, 07 Oct 2024 12:34:56 +0000</pubDate>
+      <category>Your Category</category>
+      <subsplease:size>1.36 GiB</subsplease:size>
+    </item>
+
+    <!-- Add more items as needed -->
+
+  </channel>
+</r
+ss>
