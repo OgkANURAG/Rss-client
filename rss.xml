@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:subsplease="https://subsplease.org/rss" version="2.0">
   <channel>
-    <title>Your Custom RSS Feed</title>
-    <description>This is an RSS feed for your custom content.</description>
-    <link>https://yourwebsite.com</link>
-    <atom:link href="https://yourwebsite.com/rss" rel="self" type="application/rss+xml"/>
+    <title>SubsPlease RSS</title>
+    <description>RSS feed for SubsPlease releases (1080p)</description>
+    <link>https://subsplease.org</link>
+    <atom:link href="https://subsplease.org/rss.xml" rel="self" type="application/rss+xml"/>
 
-    <!-- First Item -->
+    <!-- Single Item -->
     <item>
-      <title>[YourTitle] Your Content Title</title>
-      <link>magnet:?xt=urn:btih:EXAMPLEHASH&dn=YourFile.mkv</link>
-      <guid isPermaLink="false">EXAMPLEHASH</guid>
-      <pubDate>Mon, 07 Oct 2024 12:34:56 +0000</pubDate>
-      <category>Your Category</category>
+      <title>[SubsPlease] Tower of God S2 - 14 (1080p) [4BECDE1C].mkv</title>
+      <link>magnet:?xt=urn:btih:BISAMLMG6FU53XQHG3SEZC4IW75LDDCZ&amp;dn=%5BSubsPlease%5D%20Tower%20of%20God%20S2%20-%2014%20%281080p%29%20%5B4BECDE1C%5D.mkv&amp;xl=1457339371&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&amp;tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&amp;tr=wss%3A%2F%2Ftracker.openwebtorrent.com</link>
+      <guid isPermaLink="false">BISAMLMG6FU53XQHG3SEZC4IW75LDDCZ</guid>
+      <pubDate>Sun, 06 Oct 2024 21:22:11 +0000</pubDate>
+      <category>Tower of God S2 - 1080</category>
       <subsplease:size>1.36 GiB</subsplease:size>
     </item>
 
-    <!-- Add more items as needed -->
-
   </channel>
-</r
-ss>
+</rss>
