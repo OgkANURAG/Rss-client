@@ -1,19 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:subsplease="https://subsplease.org/rss" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyaa="https://nyaa.si/xmlns/nyaa" version="2.0">
   <channel>
-    <title>SubsPlease RSS</title>
-    <description>RSS feed for SubsPlease releases (1080p)</description>
-    <link>https://subsplease.org</link>
-    <atom:link href="https://subsplease.org/rss.xml" rel="self" type="application/rss+xml"/>
-
-    <!-- Single Item -->
+    <title>Nyaa - Home - Torrent File RSS</title>
+    <description>RSS Feed for Home</description>
+    <link>https://nyaa.si/</link>
+    <atom:link href="https://nyaa.si/?page=rss" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Uzumaki.S01E02.Episode.2.1080p.MAX.WEB-DL.DUAL.DDP2.0.H.265.10bit.MSubs-ToonsHub.mkv</title>
-      <link>magnet:?xt=urn:btih:129D8467D42376A4930D6A1BEEFBC8BD10238DDD&amp;dn=%5BSubsPlease%5D%20Tower%20of%20God%20S2%20-%2014%20%281080p%29%20%5B4BECDE1C%5D.mkv&amp;xl=1457339371&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&amp;tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&amp;tr=wss%3A%2F%2Ftracker.openwebtorrent.com</link>
-      <guid isPermaLink="false">129D8467D42376A4930D6A1BEEFBC8BD10238DDD</guid>
-      <pubDate>Sun, 06 Oct 2024 21:22:11 +0000</pubDate>
-      <category>Uzumaki S01 - 1080</category>
-      <subsplease:size>516.5 MiB</subsplease:size>
+      <title>[ToonsHub] Nina the Starry Bride S01E01 1080p ABEMA WEB-DL AAC2.0 H.264 (Hoshi Furu Oukoku no Nina)</title>
+      <link>https://nyaa.si/download/1882083.torrent</link>
+      <guid isPermaLink="true">https://nyaa.si/view/1882083</guid>
+      <pubDate>Mon, 07 Oct 2024 13:45:30 -0000</pubDate>
+      <nyaa:seeders>12</nyaa:seeders>
+      <nyaa:leechers>50</nyaa:leechers>
+      <nyaa:downloads>12</nyaa:downloads>
+      <nyaa:infoHash>a177201f6b513a577533befd798dae919cb26ab2</nyaa:infoHash>
+      <nyaa:categoryId>1_4</nyaa:categoryId>
+      <nyaa:category>Anime - Raw</nyaa:category>
+      <nyaa:size>711.3 MiB</nyaa:size>
+      <nyaa:comments>0</nyaa:comments>
+      <nyaa:trusted>No</nyaa:trusted>
+      <nyaa:remake>No</nyaa:remake>
+      <description>
+        <![CDATA[ <a href="https://nyaa.si/view/1882083">#1882083 | [ToonsHub] Nina the Starry Bride S01E01 1080p ABEMA WEB-DL AAC2.0 H.264 (Hoshi Furu Oukoku no Nina)</a> | 711.3 MiB | Anime - Raw | A177201F6B513A577533BEFD798DAE919CB26AB2 ]]>
+      </description>
     </item>
 
   </channel>
