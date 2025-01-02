@@ -1,27 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyaa="https://nyaa.si/xmlns/nyaa" version="2.0">
   <channel>
     <title>Nyaa - Home - Torrent File RSS</title>
     <description>RSS Feed for Home</description>
     <link>https://nyaa.si/</link>
     <atom:link href="https://nyaa.si/?page=rss" rel="self" type="application/rss+xml" />
-    
-   <item>
-     <title>[ToonsHub] BLEACH Thousand-Year Blood War S01E39 1080p HULU WEB-DL AAC2.0 H.264 (BLEACH: Sennen Kessen-hen, English-Sub)</title>
-     <link>https://nyaa.si/download/1916006.torrent</link>
-     <guid isPermaLink="true">https://nyaa.si/view/1916006</guid>
-     <pubDate>Sat, 28 Dec 2024 15:15:48 -0000</pubDate>
-     <nyaa:seeders>0</nyaa:seeders>
-     <nyaa:leechers>62</nyaa:leechers>
-     <nyaa:downloads>0</nyaa:downloads>
-     <nyaa:infoHash>b3b58d2bc3ad0ec3258d73a03432c871d17f97c2</nyaa:infoHash>
-     <nyaa:categoryId>1_2</nyaa:categoryId>
-     <nyaa:category>Anime - English-translated</nyaa:category>
-     <nyaa:size>782.0 MiB</nyaa:size>
-     <nyaa:comments>0</nyaa:comments>
-     <nyaa:trusted>No</nyaa:trusted>
-     <nyaa:remake>No</nyaa:remake>
-     <description>
-       <![CDATA[ <a href="https://nyaa.si/view/1916006">#1916006 | [ToonsHub] BLEACH Thousand-Year Blood War S01E39 1080p HULU WEB-DL AAC2.0 H.264 (BLEACH: Sennen Kessen-hen, English-Sub)</a> | 782.0 MiB | Anime - English-translated | B3B58D2BC3AD0EC3258D73A03432C871D17F97C2 ]]>
-     </description>
+    <item>
+      <title>[ToonsHub] BLEACH Thousand-Year Blood War S01E39 1080p HULU WEB-DL AAC2.0 H.264 (BLEACH: Sennen Kessen-hen, English-Sub)</title>
+      <link>https://nyaa.si/download/1916006.torrent</link>
+      <guid isPermaLink="true">https://nyaa.si/view/1916006</guid>
+      <pubDate>Sat, 28 Dec 2024 15:15:48 GMT</pubDate>
+      <nyaa:seeders>0</nyaa:seeders>
+      <nyaa:leechers>62</nyaa:leechers>
+      <nyaa:downloads>0</nyaa:downloads>
+      <nyaa:infoHash>b3b58d2bc3ad0ec3258d73a03432c871d17f97c2</nyaa:infoHash>
+      <nyaa:categoryId>1_2</nyaa:categoryId>
+      <nyaa:category>Anime - English-translated</nyaa:category>
+      <nyaa:size>782.0 MiB</nyaa:size>
+      <nyaa:comments>0</nyaa:comments>
+      <nyaa:trusted>No</nyaa:trusted>
+      <nyaa:remake>No</nyaa:remake>
+      <description><![CDATA[
+        <a href="https://nyaa.si/view/1916006">#1916006 | [ToonsHub] BLEACH Thousand-Year Blood War S01E39 1080p HULU WEB-DL AAC2.0 H.264 (BLEACH: Sennen Kessen-hen, English-Sub)</a><br>
+        Size: 782.0 MiB<br>
+        Category: Anime - English-translated<br>
+        InfoHash: b3b58d2bc3ad0ec3258d73a03432c871d17f97c2
+      ]]></description>
+    </item>
   </channel>
 </rss>
